@@ -23,6 +23,7 @@ public class C06_listIterator {
 
         }
         System.out.println(sayilar);
+        System.out.println(sayilar);
 
 
     }
