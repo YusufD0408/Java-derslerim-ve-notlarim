@@ -7,6 +7,7 @@ public class C01_MapIlkClass {
     public static void main(String[] args) {
 
         Map<Integer,String> okulMap= new HashMap<>();
+
         /*
             bir map olusturulurken ve element eklerken
             bilgilere sonradan erisimin mumkun olabilmesi icin
